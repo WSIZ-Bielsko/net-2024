@@ -2,3 +2,15 @@
 
 - "routers and routing"
 
+## Static Routing
+
+
+## Firewall / NAT
+
+
+## IPv6
+
+## OSPF
+
+
+## BGP
