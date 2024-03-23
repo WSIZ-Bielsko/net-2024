@@ -20,6 +20,10 @@ sudo apt update
 # install docker 
 sudo apt install -y docker-ce
 
+# dodanie usera "student" do grupy "docker" (by mógł obsługiwać docker)
+sudo usermod -aG docker student
+
+# logout / login
 ```
 
 
