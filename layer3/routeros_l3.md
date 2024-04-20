@@ -2,6 +2,10 @@
 
 - "routers and routing"
 
+## IP
+
+- `ip address add interface=b1 address=10.0.0.1/24`
+
 ## Static Routing
 
 
